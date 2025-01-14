@@ -2,7 +2,7 @@
 - 👀 I’m interested in Sustainability Reporting, Carbon credits and reporting, Environmental Analysis, Climate Risk Assessment, Human Health Risk Assessment 
 - 🌱 I’m currently learning to implement data science to solve Environmental challenges, sustainability, carbon credits, carbon reporting, and climate Change Risk Assessment.
 - 💞️ I’m looking to collaborate on Environmental science data analytics projects.
-- 📫 How to reach me solomonnyameky@gmail.com
+- 📫 How to reach me smartzgh@gmail.com
 
 <!---
 smartgh0/smartgh0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
