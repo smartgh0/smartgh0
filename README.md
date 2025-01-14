@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @smartgh0
-- 👀 I’m interested in Sustainability Reporting, Carbon credits and reporting, Environmental Analysis, Climate Risk Assessment, Human Health Risk Assessment 
-- 🌱 I’m currently learning to implement data science to solve Environmental challenges, sustainability, carbon credits, carbon reporting, and climate Change Risk Assessment.
-- 💞️ I’m looking to collaborate on Environmental science data analytics projects.
+- 👋 Hi, I’m @smartgh0 I am a Pythonistas! I use python to solve everyday problems.
+- 👀 I’m interested in sustainability, carbon markets, environmental analysis, climate Risk assessment, human health risk assessment. 
+- 🌱 implement data science, ML, and AI to solve environmental, and sustainability challenges.
+- 💞️ I’m looking to collaborate on environmental science data analytics projects.
 - 📫 How to reach me smartzgh@gmail.com
 
 <!---
