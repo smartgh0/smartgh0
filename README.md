@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @smartgh0 I am a Pythonistas! I use python to solve everyday problems.
-- 👀 I’m interested in sustainability, carbon markets, environmental analysis, climate Risk assessment, human health risk assessment. 
+- 👀 I’m interested in sustainability, carbon markets, environmental analysis, climate Risk assessment, human health risk assessment (MODELS). 
 - 🌱 implement data science, ML, and AI to solve environmental, and sustainability challenges.
 - 💞️ I’m looking to collaborate on environmental science data analytics projects.
 - 📫 How to reach me smartzgh@gmail.com
